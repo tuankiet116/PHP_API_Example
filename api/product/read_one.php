@@ -1,4 +1,6 @@
 <?php
+//toturial https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
+
 // required headers
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: access");

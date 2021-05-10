@@ -1,4 +1,5 @@
-<?php
+<?php 
+//toturial https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
 class Product{
   
     // database connection and table name

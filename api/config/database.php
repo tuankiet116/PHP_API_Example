@@ -1,4 +1,5 @@
 <?php
+//toturial https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html
 class Database{
   
     // specify your own database credentials
